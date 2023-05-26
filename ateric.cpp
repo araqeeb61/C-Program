@@ -6,8 +6,7 @@
 // 	for (int i=;i>10;i++)
 // 	{
  		printf("\t%d\n\t%d",a,a);
-  	printf("\t%d\n\t%d",a,a);
-  	printf("\t%d\n\t%d",a,a);
+
  		
  		
 //	 }
