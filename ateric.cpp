@@ -7,6 +7,7 @@
 // 	{
  		printf("\t%d\n\t%d",a,a);
   	printf("\t%d\n\t%d",a,a);
+  	printf("\t%d\n\t%d",a,a);
  		
  		
 //	 }
