@@ -3,6 +3,6 @@
 int main ()
 {  struct [4]={  char[23], int };
  
-	int abc=100;
+	float a=12;
 	return 0;
 }
